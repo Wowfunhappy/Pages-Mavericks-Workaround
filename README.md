@@ -1,4 +1,4 @@
 # Pages-Mavericks-Workaround
-Once you see it, you can't unsee.
+Once you see it, it can't be unseen.
 
-![Screen Shot 2021-03-20 at 12 04 52 PM](https://user-images.githubusercontent.com/4484096/111876394-e704df80-8974-11eb-91c1-264f2d73151e.png)
+![Screen Shot 2021-03-20 at 1 08 27 PM](https://user-images.githubusercontent.com/4484096/111878226-b1182900-897d-11eb-87e6-7bf72282445d.png)
