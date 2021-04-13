@@ -14,7 +14,7 @@
 
 - (void)awakeFromNib {
     ZKOrig(void);
-    [self _engageAutolayout];
+    [self performSelector:@selector(_engageAutolayout) withObject:nil afterDelay:0.25];
 }
 
 @end
